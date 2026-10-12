@@ -1,0 +1,36 @@
+name: Update total stars
+
+on:
+  schedule:
+    - cron: '17 2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-total-stars
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+      - name: Test aggregation and update the asset
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          python3 -m unittest discover -s tests -v
+          python3 scripts/update_stars.py
+      - name: Commit the updated asset
+        run: |
+          if git diff --quiet -- assets/total-stars.svg; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/total-stars.svg
+          git commit -m 'Update total stars'
+          git push

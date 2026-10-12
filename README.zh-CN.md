@@ -8,6 +8,10 @@
 
 **简体中文** · [English](README.md)
 
+[![所有公开仓库获得的 Star 总数](assets/total-stars.svg)](https://github.com/qhy991?tab=repositories)
+
+统计我名下所有公开仓库，包括 Fork 与已归档项目，每日更新。
+
 我研究如何让 **AI Agent 生成并优化可执行的系统与硬件**，连接模型、GPU Kernel、编译器与电路设计。目前在北京航空航天大学攻读集成电路方向博士学位（2023 至今）。
 
 - **AI + EDA** — RTL 生成、多模态电路理解与多 Agent 设计。
