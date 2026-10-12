@@ -8,6 +8,10 @@
 
 **English** · [简体中文](README.zh-CN.md)
 
+[![Total stars across my public repositories](assets/total-stars.svg)](https://github.com/qhy991?tab=repositories)
+
+Stars across my public repositories, including forks and archived projects. Refreshed daily.
+
 I build **AI agents that generate and optimize executable systems and hardware**, connecting models, GPU kernels, compilers, and circuit design. I'm pursuing a Ph.D. in Integrated Circuit Engineering at Beihang University (2023–present).
 
 - **AI + EDA** — RTL generation, multimodal circuit understanding, and multi-agent design.
