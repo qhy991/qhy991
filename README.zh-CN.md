@@ -20,6 +20,11 @@
 
 > **当前重点：** 把专家的 Kernel 优化方法转化为可执行工作流，让生成、性能分析与评测形成闭环。
 
+## 代表成果
+
+- 曾助力 Infinigence AI 获得 [SOL-ExecBench 双榜第一](https://research.nvidia.com/benchmarks/sol-execbench/leaderboard)。
+- 参与 GLM-5.3 推理优化，达到 **630 tokens/s**。
+
 ## 代表项目
 
 从可运行的工具，到支撑研究的论文与系统资料。
@@ -59,11 +64,12 @@
 
 | 年份 | 会议 / 期刊 | 论文 | 链接 |
 | :-- | :-- | :-- | :-- |
+| 2026 | IEEE NVMSA 2026 | 面向多核存内计算系统的硬件感知神经网络部署：编译器视角 | [会议日程](https://nvmsa2026.github.io/) |
 | 2025 | **DAC 2025** | 面向电路设计的多 Agent 良率分析 | [DBLP](https://researchr.org/publication/QinKZKX25) |
-| 2025 | **DAC 2025** | 精度感知的贝叶斯良率优化 | — |
-| 2025 | **DAC 2025** | 基于 Crossbar 的多核 CIM 系统权重映射与资源调度 | — |
+| 2025 | **DAC 2025** | 精度感知的贝叶斯良率优化 | [北航学术门户](https://research.buaa.edu.cn/zh/publications/accuracy-is-not-always-we-need-precision-aware-bayesian-yield-opt/) |
+| 2025 | **DAC 2025** | 基于 Crossbar 的多核 CIM 系统权重映射与资源调度 | [DAC 官方日程](https://62dac.conference-program.com/presentation/?id=RESEARCH1718&sess=sess133) |
 | 2025 | Integrated Circuits and Systems | 基于高阻 SOT 器件的存内计算宏，面向边缘 AI 推理 | [DOI](https://doi.org/10.23919/ICS.2025.3567939) |
-| 2023 | IEEE AICAS 2023 | 面向嵌入式 FPGA 部署的微小神经网络搜索 | [DBLP](https://researchr.org/publication/QinZBK23) |
+| 2023 | IEEE AICAS 2023 | 面向嵌入式 FPGA 部署的微小神经网络搜索 | [IEEE Xplore](https://ieeexplore.ieee.org/document/10168571/) · [DBLP](https://researchr.org/publication/QinZBK23) |
 
 </details>
 

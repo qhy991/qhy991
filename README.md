@@ -20,6 +20,11 @@ I build **AI agents that generate and optimize executable systems and hardware**
 
 > **Currently:** Turning expert kernel-optimization methods into executable workflows that connect generation, profiling, and evaluation.
 
+## Selected achievements
+
+- Helped Infinigence AI achieve first place on two [SOL-ExecBench leaderboards](https://research.nvidia.com/benchmarks/sol-execbench/leaderboard).
+- Contributed to GLM-5.3 inference optimization, reaching **630 tokens/s**.
+
 ## Selected projects
 
 Tools to build with, and research collections to build on.
@@ -59,11 +64,12 @@ Multi-agent collaboration and collective intelligence for circuit generation.
 
 | Year | Venue | Paper | Links |
 | :-- | :-- | :-- | :-- |
+| 2026 | IEEE NVMSA 2026 | Hardware-Aware Neural Network Deployment on Multi-Core In-Memory Computing Systems: A Compiler Perspective | [Conference program](https://nvmsa2026.github.io/) |
 | 2025 | **DAC 2025** | Multi-Agent Yield Analysis for Circuit Design | [DBLP](https://researchr.org/publication/QinKZKX25) |
-| 2025 | **DAC 2025** | Accuracy Is Not Always We Need: Precision-Aware Bayesian Yield Optimization | — |
-| 2025 | **DAC 2025** | Efficient Weight Mapping and Resource Scheduling on Crossbar-based Multi-core CIM Systems | — |
+| 2025 | **DAC 2025** | Accuracy Is Not Always We Need: Precision-Aware Bayesian Yield Optimization | [Beihang](https://research.buaa.edu.cn/zh/publications/accuracy-is-not-always-we-need-precision-aware-bayesian-yield-opt/) |
+| 2025 | **DAC 2025** | Efficient Weight Mapping and Resource Scheduling on Crossbar-based Multi-core CIM Systems | [DAC program](https://62dac.conference-program.com/presentation/?id=RESEARCH1718&sess=sess133) |
 | 2025 | Integrated Circuits and Systems | A High-Resistance SOT Device Based Computing-in-Memory Macro for AI Edge Inference | [DOI](https://doi.org/10.23919/ICS.2025.3567939) |
-| 2023 | IEEE AICAS 2023 | Searching Tiny Neural Networks for Deployment on Embedded FPGA | [DBLP](https://researchr.org/publication/QinZBK23) |
+| 2023 | IEEE AICAS 2023 | Searching Tiny Neural Networks for Deployment on Embedded FPGA | [IEEE Xplore](https://ieeexplore.ieee.org/document/10168571/) · [DBLP](https://researchr.org/publication/QinZBK23) |
 
 </details>
 
