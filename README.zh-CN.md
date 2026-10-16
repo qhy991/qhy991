@@ -2,15 +2,19 @@
 
 # 你好，我是 Haiyan Qin
 
-**AI 基础设施研究者 · 北京航空航天大学博士研究生**
+**AI 基础设施研究者 · ApxInf 核心开发者 · 北京航空航天大学博士研究生**
 
 [个人网站](https://qhy991.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=zzmYq9QAAAAJ&hl=en) · [联系我](mailto:haiyanq@buaa.edu.cn)
 
 **简体中文** · [English](README.md)
 
+[中文简历 · PDF](https://qhy991.github.io/cv/zh/CV.pdf) · [English CV · PDF](https://qhy991.github.io/cv/en/CV.pdf)
+
 [![所有公开仓库获得的 Star 总数](assets/total-stars.svg)](https://github.com/qhy991?tab=repositories)
 
 统计我名下所有公开仓库，包括 Fork 与已归档项目，每日更新。
+
+我是 **[ApxInf](https://github.com/infinigence/ApxInf) 核心开发者**。ApxInf 是 Infinigence AI 开源的具身智能边缘推理引擎。
 
 我研究如何让 **AI Agent 生成并优化可执行的系统与硬件**，连接模型、GPU Kernel、编译器与电路设计。目前在北京航空航天大学攻读集成电路方向博士学位（2023 至今）。
 
@@ -31,6 +35,7 @@
 
 | 项目 | 可以在这里找到什么 |
 | :-- | :-- |
+| **[ApxInf](https://github.com/infinigence/ApxInf)** | 核心开发者。基于 Rust 与 CUDA 的具身智能边缘推理引擎，面向 NVIDIA Jetson Thor 和 Orin，支持 PI0.5。 |
 | **[Awesome-Kernel-Workflows](https://github.com/qhy991/Awesome-Kernel-Workflows)** | 将专家级 Kernel 优化方法封装为可运行的 Agent 工作流。 |
 | **[open-cake-ir](https://github.com/qhy991/open-cake-ir)** | Agent 驱动的 GPU Kernel 与编译器协同进化，包含类型化 IR、结构化反馈与验证产物。 |
 | **[Awesome-LLM-Kernel-Agent](https://github.com/qhy991/Awesome-LLM-Kernel-Agent)** | LLM 驱动 Kernel 生成与优化的论文、系统和评测资料。 |

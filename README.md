@@ -2,15 +2,19 @@
 
 # Hi, I'm Haiyan Qin
 
-**AI Infrastructure Researcher · Ph.D. Student, Beihang University**
+**AI Infrastructure Researcher · ApxInf Core Developer · Ph.D. Student, Beihang University**
 
 [Website](https://qhy991.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=zzmYq9QAAAAJ&hl=en) · [Get in touch](mailto:haiyanq@buaa.edu.cn)
 
 **English** · [简体中文](README.zh-CN.md)
 
+[English CV · PDF](https://qhy991.github.io/cv/en/CV.pdf) · [中文简历 · PDF](https://qhy991.github.io/cv/zh/CV.pdf)
+
 [![Total stars across my public repositories](assets/total-stars.svg)](https://github.com/qhy991?tab=repositories)
 
 Stars across my public repositories, including forks and archived projects. Refreshed daily.
+
+I am a **core developer of [ApxInf](https://github.com/infinigence/ApxInf)**, Infinigence AI's open-source inference engine for embodied edge AI.
 
 I build **AI agents that generate and optimize executable systems and hardware**, connecting models, GPU kernels, compilers, and circuit design. I'm pursuing a Ph.D. in Integrated Circuit Engineering at Beihang University (2023–present).
 
@@ -31,6 +35,7 @@ Tools to build with, and research collections to build on.
 
 | Project | What you'll find |
 | :-- | :-- |
+| **[ApxInf](https://github.com/infinigence/ApxInf)** | Core developer. A Rust and CUDA inference engine for embodied edge AI on NVIDIA Jetson Thor and Orin, with PI0.5 support. |
 | **[Awesome-Kernel-Workflows](https://github.com/qhy991/Awesome-Kernel-Workflows)** | Expert kernel-optimization methods packaged as runnable agent workflows. |
 | **[open-cake-ir](https://github.com/qhy991/open-cake-ir)** | Agent-driven co-evolution of GPU kernels and compilers, with typed IR, structured feedback, and validated artifacts. |
 | **[Awesome-LLM-Kernel-Agent](https://github.com/qhy991/Awesome-LLM-Kernel-Agent)** | Papers, systems, and evaluation resources for LLM-driven kernel generation and optimization. |
